@@ -1,65 +1,87 @@
-# 📦 BeoCanada
+# **BeoCanada**  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+## 🧭 Overview  
+**BeoCanada** was a dedicated promotional and sales website for **Bang & Olufsen** products in Vancouver. Developed as a WordPress website using Elementor, it showcased the brand’s luxury audio and visual solutions—ranging from high-end speakers to home integration panels. The project later transitioned to **Webflow** to simplify future content management and streamline design consistency with Bang & Olufsen’s global branding.
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+---
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+## 💡 Idea & Concept  
+The goal was to provide a **premium local presence** for Bang & Olufsen in Canada, creating a website that reflects their commitment to **aesthetics, audio excellence, and home automation solutions**. The design mirrored the brand’s minimalistic luxury feel and was used to support in-store experiences and marketing campaigns.
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+---
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+## ✨ Features & Functionality  
+- Showcase of premium speakers, TVs, and sound systems  
+- Dedicated sections for **Home Integration Solutions**  
+- Professional inquiries and contact forms  
+- Interactive showroom pages and visuals  
+- Bang & Olufsen official branding elements  
+- Clean mobile experience and retina-ready displays  
+- Transition to Webflow for modern, fast, and responsive design  
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+---
 
-- **Installation Steps:** 
+## ⚙️ Tech Stack  
+**Phase 1 – WordPress:**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)  
 
-- **Deployment Environment:** 
+**Phase 2 – Webflow:**  
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-- **Access:** 
+---
 
-> **Note:** 
+## 🏗 Architecture & Design  
+- Custom Elementor widgets to match the Bang & Olufsen UI  
+- Full Webflow rebuild with flexible CMS collections  
+- Brand-aligned typography, layout, and imagery  
+- Custom forms and CTA blocks integrated with HubSpot  
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+---
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🚀 Installation & Setup  
+- Installed on Epic Inspired’s WordPress servers  
+- DNS configuration and hosting setup  
+- Later migrated fully to Webflow for ease of use  
+- Maintained performance and SEO continuity through migration  
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+---
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+## 🧑‍💻 My Role & Contributions  
+- 🎯 Full customization of WordPress site to meet brand needs  
+- 🔧 Debugged and maintained theme/plugin compatibility  
+- 🧪 Migrated site to Webflow, ensuring pixel-perfect match  
+- 🛠️ Maintained servers, updated plugins/themes  
+- 💬 Set up HubSpot form integrations and newsletter tools  
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+---
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧗 Challenges & Learnings  
+- Adapting global brand visuals to a local audience  
+- Ensuring high performance for a **luxury-first** website  
+- Managing a seamless platform migration while minimizing downtime  
+- Balancing interactivity with minimalist design principles  
 
-## 🔗 Additional Resources
-- **Documentation:** 
+---
 
-- **Related Projects:** 
+## 📈 Future Enhancements  
+- Integration with e-commerce for local Bang & Olufsen product sales  
+- CRM lead scoring and segmentation  
+- Enhanced analytics via GA4 and Tag Manager  
 
-- **Live Demo Link:** 
+---
+
+## 🤝 Contributing  
+This was a proprietary client project for **Bang & Olufsen Vancouver**, developed in partnership with **Epic Inspired**. All content rights belong to the respective owners.
+
+---
+
+## 🪪 License  
+Website and brand elements © Bang & Olufsen / BeoCanada / Epic Inspired.
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired Project Dashboard](../GitHubDashboard.md)  
+- [Related Projects: Integration Bang & Olufsen](../IntegrationBangOlufsen.md), [Asentó](../Asento.md)
